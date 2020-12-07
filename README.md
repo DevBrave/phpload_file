@@ -11,7 +11,7 @@ This peoject -> phpload_life good for people want to :<br>
 
 # Installiation
 
-You can download the "phpload.php" and "function.php" use it anywhere. Or you can clone the whole project.
+You can download the whole project to use it anywhere,or you can clone the whole project.
 
 ``
 git clone https://github.com/DeHP03/phpload_file
