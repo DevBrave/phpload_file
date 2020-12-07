@@ -1,4 +1,4 @@
-# phpload_file
+# Upload your File with phpload_file
 ``
 echo 'Do you want upload your file or your image as fast as you can so you have to install this';
 ``
